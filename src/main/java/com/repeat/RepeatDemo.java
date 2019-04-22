@@ -40,8 +40,8 @@ public class RepeatDemo {
         return map;
     }
     public static void main(String[] args) {
-        String aaa="哈速度噶觉得小明认为啊实打实大苏打·1";
         List<String> list=new ArrayList<String>();
+        String aaa="哈速度噶觉得小明认为啊实打实大苏打·1";
         String aaa2="小明认为啊哈速度噶觉得实打实大苏打·1";
         String aaa3="啊啊啊实打实大苏打·1";
         String aaa4="哈速度噶觉得cxcz热特瑞特侮辱我";
